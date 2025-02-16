@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2023-24 tracks</name>
+    <Style id="line-C2185B-4100-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-4100-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>6.15</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4294-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.294</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-4294-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>6.441</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4294-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4294-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4294-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4488-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.488</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-4488-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>6.732</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4488">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4488-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4488-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4681-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.681</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-4681-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.0215</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4681">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4681-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4681-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4681-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.681</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-4681-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.0215</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4681-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4681-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4681-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4875-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.875</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-4875-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.3125</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4875">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4875-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4875-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4875-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.875</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-4875-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.3125</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4875-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4875-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4875-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5069-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.069</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5069-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.6035</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5069">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5069-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5069-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5069-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.069</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-5069-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.6035</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5069-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5069-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5069-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5263-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5263-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5456-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.456</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5456-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>8.184</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5456">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5456-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5456-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5650-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.65</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5650-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>8.475</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5650">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5650-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5650-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5650-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.65</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-5650-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>8.475</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5650-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5650-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5650-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5844-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5.844</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5844-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>8.766</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5844">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5844-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5844-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-6038-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>6.038</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-6038-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>9.057</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-6038">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-6038-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-6038-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description><![CDATA[Segregation from road traffic - Northbound only<br>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3322808,51.4386643,0
+          -0.3324337,51.4388164,0
+          -0.3325329,51.4389318,0
+          -0.3326804,51.4391508,0
+          -0.3327689,51.4392913,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3312285,51.4372869,0
+          -0.33103,51.4368789,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3299571,51.4353369,0
+          -0.329865,51.4351597,0
+          -0.329798,51.4349941,0
+          -0.329696,51.4347416,0
+          -0.3296022,51.4343387,0
+          -0.3295619,51.4341581,0
+          -0.3295807,51.4340277,0
+          -0.3296183,51.4339206,0
+          -0.3297175,51.4336865,0
+          -0.3297416,51.4335845,0
+          -0.3297229,51.4335059,0
+          -0.3296746,51.4333504,0
+          -0.3296075,51.4332133,0
+          -0.3295351,51.4330963,0
+          -0.3294278,51.4329591,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description><![CDATA[Segregation from road traffic - Southbound only<br>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf]]></description>
+      <styleUrl>#line-C2185B-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.330412,51.4358907,0
+          -0.330228,51.4356646,0
+          -0.3300966,51.4355259,0
+          -0.33,51.4354088,0
+          -0.3299571,51.4353369,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description><![CDATA[Segregation from road traffic - Northbound only<br>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf]]></description>
+      <styleUrl>#line-C2185B-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3312285,51.4372869,0
+          -0.3314109,51.4376046,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Vale - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.330412,51.4358907,0
+          -0.3305595,51.4360846,0
+          -0.3308009,51.4364558,0
+          -0.3309028,51.436628,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Road - LB Richmond</name>
+      <description><![CDATA[Segregation from road traffic - Southbound only<br>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf]]></description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3278145,51.4317602,0
+          -0.327498,51.4314626,0
+          -0.3273827,51.4313606,0
+          -0.3272083,51.4311784,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Road - LB Richmond</name>
+      <description><![CDATA[Segregation from road traffic - Northbound only<br>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3289854,51.4326146,0
+          -0.3287279,51.4324574,0
+          -0.3284812,51.4323003,0
+          -0.3281003,51.4320143,0
+          -0.3279715,51.4319156,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Road - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-6038</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3279715,51.4319156,0
+          -0.3278145,51.4317602,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Road - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3271064,51.4310721,0
+          -0.3270447,51.4309931,0
+          -0.3268623,51.4307423,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Road - LB Richmond</name>
+      <description>https://haveyoursay.citizenspace.com/richmondecs/sv21/user_uploads/strawberry-vale-proposed-general-layout-1.pdf</description>
+      <styleUrl>#line-C2185B-6038</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3267416,51.4305851,0
+          -0.3266491,51.4305207,0
+          -0.3265217,51.4304446,0
+          -0.3262642,51.4303594,0
+          -0.326063,51.4303025,0
+          -0.3258163,51.430259,0
+          -0.3256124,51.4302222,0
+          -0.3255427,51.4301971,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Woodford New Road</name>
+      <description>https://engagement.redbridge.gov.uk/civic-pride/woodford-new-road/</description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          0.0145122,51.6012913,0
+          0.015301,51.6021845,0
+          0.0161271,51.6031108,0
+          0.0168889,51.6039504,0
+          0.0175111,51.6046434,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C9</name>
+      <styleUrl>#line-C2185B-5650-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.292804,51.4876688,0
+          -0.2926894,51.4877012,0
+          -0.2925875,51.4877446,0
+          -0.2924024,51.4878181,0
+          -0.2919893,51.4879918,0
+          -0.2918043,51.4880669,0
+          -0.2914744,51.4881721,0
+          -0.2910425,51.4882957,0
+          -0.290887,51.4883308,0
+          -0.2907958,51.4883625,0
+          -0.2905678,51.4884143,0
+          -0.2902969,51.4884811,0
+          -0.2894493,51.4886264,0
+          -0.2892293,51.4886698,0
+          -0.2888646,51.4887133,0
+          -0.2885454,51.4887517,0
+          -0.2883248,51.4887626,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Seva Rd</name>
+      <description>Bi-directional track</description>
+      <styleUrl>#line-C2185B-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3858176,51.5061723,0
+          -0.3912893,51.5068702,0
+          -0.3915146,51.5068768,0
+          -0.3917438,51.506834,0
+          -0.3918511,51.5067472,0
+          -0.391894,51.506627,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>High Road Leytonstone</name>
+      <styleUrl>#line-C2185B-5650-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          0.0153776,51.5708339,0
+          0.0149377,51.5707422,0
+          0.0153963,51.5710273,0
+          0.015568,51.5711407,0
+          0.0153936,51.5710273,0
+          0.0149377,51.5707422,0
+          0.0146051,51.5705772,0
+          0.0141008,51.5703054,0
+          0.0137307,51.5701137,0
+          0.0133176,51.5698886,0
+          0.0130038,51.5697319,0
+          0.0131594,51.569812,0
+          0.0130521,51.569892,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description>Segregation from road traffic - Eastbound only</description>
+      <styleUrl>#line-C2185B-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1203733,51.5570866,0
+          -0.1203465,51.557125,0
+          -0.1200086,51.5573435,0
+          -0.1195123,51.5577153,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1185736,51.5582611,0
+          -0.1179969,51.5585746,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Segregation from road traffic - Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1175136,51.5588451,0
+          -0.1171596,51.5590352,0
+          -0.1167626,51.5592436,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Segregation from road traffic - Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1163603,51.559457,0
+          -0.1158238,51.5597472,0
+          -0.1150621,51.5601574,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Segregation from road traffic - Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1149092,51.5602475,0
+          -0.1146034,51.5604259,0
+          -0.1142252,51.5606376,0
+          -0.1139007,51.5608061,0
+          -0.1136325,51.5609478,0
+          -0.113375,51.5610762,0
+          -0.112986,51.5612646,0
+          -0.1127741,51.5613597,0
+          -0.1125944,51.5614297,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1123772,51.5615111,0
+          -0.1121036,51.5615995,0
+          -0.1117308,51.5617212,0
+          -0.1114223,51.5618229,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Segregation from road traffic - Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1091322,51.5626388,0
+          -0.1085207,51.5628589,0
+          -0.1082712,51.562949,0
+          -0.108062,51.5630423,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-0750-2122]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1069124,51.5635016,0
+          -0.1072276,51.5633566,0
+          -0.1072779,51.5633349,0
+          -0.1073349,51.5633074,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-0750-2122]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1099479,51.5599283,0
+          -0.1100284,51.5598733,0
+          -0.1101196,51.5598199,0
+          -0.1103073,51.5597216,0
+          -0.1106828,51.5595381,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-0750-2122]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1110127,51.559328,0
+          -0.1110878,51.5591954,0
+          -0.1111039,51.5591087,0
+          -0.1110959,51.5589569,0
+          -0.1110664,51.5586751,0
+          -0.1110825,51.5585884,0
+          -0.1111039,51.5585067,0
+          -0.1111603,51.55841,0
+          -0.1112488,51.5583149,0
+          -0.1113587,51.5582382,0
+          -0.111466,51.5581848,0
+          -0.1120266,51.5579864,0
+          -0.1126435,51.5577813,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1143011,51.5572126,0
+          -0.1149985,51.5569675,0
+          -0.1155054,51.5567891,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.11285,51.5576979,0
+          -0.1131129,51.5575962,0
+          -0.1133194,51.5575295,0
+          -0.1138344,51.5573627,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1157602,51.5566773,0
+          -0.116007,51.5565406,0
+          -0.1162377,51.5564122,0
+          -0.1164067,51.5563188,0
+          -0.1167446,51.5561571,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.117163,51.5560653,0
+          -0.117442,51.5559736,0
+          -0.1176941,51.5558769,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C4</name>
+      <styleUrl>#line-C2185B-5650-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0549045,51.49818,0
+          -0.0542983,51.497826,0
+          -0.0536694,51.4973719,0
+          -0.0531705,51.4969945,0
+          -0.0529425,51.4968075,0
+          -0.0525066,51.4964301,0
+          -0.0521686,51.4961562,0
+          -0.0516255,51.4957688,0
+          -0.0509362,51.4952545,0
+          -0.0505271,51.4949472,0
+          -0.0502803,51.4947468,0
+          -0.0501194,51.4946299,0
+          -0.0498351,51.4944897,0
+          -0.0493617,51.4942726,0
+          -0.0488655,51.4940471,0
+          -0.0483921,51.4938317,0
+          -0.048038,51.4936848,0
+          -0.0469772,51.4930886,0
+          -0.0464877,51.4928264,0
+          -0.0460009,51.4925425,0
+          -0.044814,51.4918912,0
+          -0.0446799,51.4918044,0
+          -0.0445243,51.4916574,0
+          -0.043705,51.4910896,0
+          -0.0432543,51.490799,0
+          -0.0424497,51.4902496,0
+          -0.0421171,51.4900325,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C23 WF to Lea Bridge Roundabout</name>
+      <description>One way. Need to confirm if finished</description>
+      <styleUrl>#line-C2185B-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0462028,51.5618833,0
+          -0.0475815,51.561303,0
+          -0.0482949,51.5609895,0
+          -0.0488904,51.560726,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-0750-2122]]></description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.109795,51.5600684,0
+          -0.1098808,51.5599867,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Westbound</name>
+      <description><![CDATA[Segregation from road traffic - Westbound only<br>https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-0750-2122]]></description>
+      <styleUrl>#line-C2185B-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1074328,51.5632316,0
+          -0.1075387,51.5631474,0
+          -0.1075991,51.5630757,0
+          -0.107642,51.562999,0
+          -0.1076796,51.5629006,0
+          -0.1077225,51.5626288,0
+          -0.1077734,51.5623754,0
+          -0.1077976,51.5622703,0
+          -0.1078405,51.5621836,0
+          -0.1079075,51.5621103,0
+          -0.108098,51.5619468,0
+          -0.1082053,51.5618551,0
+          -0.1083421,51.5617117,0
+          -0.1085432,51.5614916,0
+          -0.1087122,51.5613115,0
+          -0.1088705,51.5611064,0
+          -0.1093801,51.5605645,0
+          -0.1094847,51.5604578,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>C50 - Eastbound</name>
+      <description><![CDATA[Segregation from road traffic - Eastbound only<br>https://foi.tfl.gov.uk/FOI-0750-2122/CSDCFR2-TFL-PRD-03-DR-TE-01%20-%20P03%20TLRN.pdf]]></description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1111621,51.5619013,0
+          -0.1108971,51.5619902,0
+          -0.110535,51.5621169,0
+          -0.1102775,51.5622086,0
+          -0.1098913,51.5623587,0
+          -0.1095828,51.5624754,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Spaniards Rd</name>
+      <description>One way - northbound only. Installed pre-2008</description>
+      <styleUrl>#line-C2185B-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1756348,51.5677994,0
+          -0.1752593,51.5682862,0
+          -0.1748784,51.5687797,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Spaniards Rd</name>
+      <description>Bi-directional track. Installed pre-2008</description>
+      <styleUrl>#line-C2185B-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1756348,51.5677994,0
+          -0.1762869,51.5669194,0
+          -0.1768233,51.5662359,0
+          -0.1774724,51.5653789,0
+          -0.1783361,51.5641917,0
+          -0.1785936,51.5638962,0
+          -0.1788055,51.563589,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Spaniards Rd</name>
+      <description>One way - northbound only. Installed pre-2008</description>
+      <styleUrl>#line-C2185B-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1788082,51.5635832,0
+          -0.1789397,51.5633915,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Rd</name>
+      <description>Bi directional track</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3712832,51.5350471,0
+          -0.371369,51.5344998,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Rd</name>
+      <description>Bi-directional track</description>
+      <styleUrl>#line-C2185B-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3712564,51.5352139,0
+          -0.3712671,51.5356277,0
+          -0.3712725,51.5359647,0
+          -0.3712993,51.5362717,0
+          -0.3712725,51.5365553,0
+          -0.3712349,51.5367789,0
+          -0.3711652,51.5369424,0
+          -0.3710364,51.5371793,0
+          -0.3707575,51.5375663,0
+          -0.3705054,51.5378433,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Rd</name>
+      <description>Bi-directional track</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3704323,51.5379443,0
+          -0.3703358,51.5381145,0
+          -0.3702607,51.5382913,0
+          -0.3702285,51.5384515,0
+          -0.3702499,51.5386783,0
+          -0.370325,51.538962,0
+          -0.3703358,51.5392856,0
+          -0.3702982,51.5395592,0
+          -0.3702285,51.5398628,0
+          -0.3701802,51.5401431,0
+          -0.3701212,51.5402565,0
+          -0.3699227,51.5407003,0
+          -0.3698315,51.5409405,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Greenford Road</name>
+      <styleUrl>#line-C2185B-4875-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3402639,51.5486029,0
+          -0.3401779,51.5488132,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Greenford Road</name>
+      <styleUrl>#line-C2185B-4875-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3400064,51.5492967,0
+          -0.3400342,51.5491823,0
+          -0.3400706,51.5490734,0
+          -0.3401162,51.5489617,0
+          -0.3401323,51.5489216,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Greenford Road</name>
+      <styleUrl>#line-C2185B-5069-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3396094,51.5505376,0
+          -0.3396133,51.5505509,0
+          -0.3395758,51.5506927,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Greenford Road</name>
+      <styleUrl>#line-C2185B-4681-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.3394807,51.5510313,0
+          -0.3395516,51.5507827,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Plough Lane</name>
+      <styleUrl>#line-C2185B-4875-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1879301,51.428499,0
+          -0.1874059,51.428685,0
+          -0.187127,51.4288523,0
+          -0.1867193,51.4293607,0
+          -0.1865154,51.429568,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Plough Lane</name>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.186215,51.4298891,0
+          -0.1859039,51.4302369,0
+          -0.185464,51.4305513,0
+          -0.1848632,51.4308791,0
+          -0.1842194,51.4313205,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Plough Lane</name>
+      <description>One way, eastbound only</description>
+      <styleUrl>#line-C2185B-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.1865154,51.429568,0
+          -0.186221,51.4298849,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0563694,51.5585809,0
+          -0.0563211,51.558656,0
+          -0.0562675,51.558701,0
+          -0.0562004,51.5587443,0
+          -0.0561307,51.5587827,0
+          -0.0560153,51.5588144,0
+          -0.0559188,51.5588277,0
+          -0.0557981,51.5588344,0
+          -0.0557123,51.558826,0
+          -0.0556452,51.5588027,0
+          -0.0555916,51.558771,0
+          -0.0555352,51.5587393,0
+          -0.0554709,51.5586943,0
+          -0.0553931,51.5586309,0
+          -0.0553341,51.5585726,0
+          -0.0552831,51.5585075,0
+          -0.0552616,51.5584408,0
+          -0.055267,51.5583941,0
+          -0.0553046,51.5583191,0
+          -0.0553475,51.5582607,0
+          -0.0554306,51.5582007,0
+          -0.0554789,51.5581607,0
+          -0.0555326,51.5581423,0
+          -0.0555942,51.558119,0
+          -0.0556693,51.5580973,0
+          -0.0558035,51.5580906,0
+          -0.0559483,51.5580973,0
+          -0.0560958,51.5581307,0
+          -0.0561843,51.558179,0
+          -0.0562675,51.5582391,0
+          -0.0563184,51.5583008,0
+          -0.0563614,51.5583591,0
+          -0.0563855,51.5584258,0
+          -0.0563962,51.5584959,0
+          -0.0563882,51.5585209,0
+          -0.0563801,51.5585659,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <styleUrl>#line-C2185B-5069-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.05315,51.558993,0
+          -0.0547745,51.558597,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0547745,51.558597,0
+          -0.0552637,51.558357,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0547745,51.558597,0
+          -0.0554145,51.5586643,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0570198,51.5583966,0
+          -0.056621,51.5583552,0
+          -0.0564243,51.5582906,0
+          -0.056303,51.558274,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.0570198,51.5583966,0
+          -0.056826,51.558429,0
+          -0.0566566,51.558451,0
+          -0.056493,51.5585049,0
+          -0.0563915,51.5585408,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lea Bridge Roundabout</name>
+      <description>OneWay</description>
+      <styleUrl>#line-C2185B-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -0.057827,51.558398,0
+          -0.0576211,51.5584053,0
+          -0.0574252,51.5584106,0
+          -0.057176,51.558399,0
+          -0.0570198,51.5583966,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

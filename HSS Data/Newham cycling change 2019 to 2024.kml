@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Newham cycling change 2019 to 2024</name>
+    <description/>
+    <Style id="icon-1522-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>below zero</name>
+      <Placemark>
+        <name>ML1396</name>
+        <description>Excel Marina -93%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.022861,51.507343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1052</name>
+        <description>Newham Way Mid -44%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.046089,51.520151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1053</name>
+        <description>Newham Way West -38%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.019577,51.517148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1290</name>
+        <description>Armada Way -33%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.072541,51.5151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1403</name>
+        <description>Alders Brook -11%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.059671,51.556019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1281</name>
+        <description>Godwin Road -7%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.02851,51.552749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1276</name>
+        <description>Oliver Gardens -4%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.050053,51.51599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1450</name>
+        <description>East Village -3%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -0.009496,51.549515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1051</name>
+        <description>Newham Way East -1%</description>
+        <styleUrl>#icon-1522-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            0.065658,51.522586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>zero to 50</name>
+      <Placemark>
+        <name>ML0883</name>
+        <description>Three Mills Green 7%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            -0.006747,51.530233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML0969</name>
+        <description>Woolwich Manor Way 14%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.060736,51.513824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML0897</name>
+        <description>Queen Elizabeth Park (Greenway) 18%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            -0.019094,51.536431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1385</name>
+        <description>Greenway (Manor Road) 19%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.007402,51.530028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1285</name>
+        <description>Wanlip Road 20%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.026453,51.522353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML0379</name>
+        <description>Stratford High Street 25%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            -0.006487,51.534545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML0963</name>
+        <description>Romford Road 26%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.015011,51.544312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1024</name>
+        <description>Stopford Lane 35%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.022148,51.536141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1271</name>
+        <description>Munday Road 35%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.018622,51.50988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1169</name>
+        <description>Capel Road 37%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.03612,51.55518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1107</name>
+        <description>Leytonstone Road 49%</description>
+        <styleUrl>#icon-1522-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            0.005985,51.547318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>fiftyto100.kml</name>
+      <Placemark>
+        <name>ML1049</name>
+        <description>Broadway 53%</description>
+        <styleUrl>#icon-1522-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            0.00048,51.540191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1274</name>
+        <description>Altmore Avenue 61%</description>
+        <styleUrl>#icon-1522-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            0.057652,51.537151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1078</name>
+        <description>Browning Road 80%</description>
+        <styleUrl>#icon-1522-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            0.057117,51.546396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML0967</name>
+        <description>Barking Road 82%</description>
+        <styleUrl>#icon-1522-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            0.05544,51.533188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>100plus.kml</name>
+      <Placemark>
+        <name>ML1191</name>
+        <description>Stevenage Road 102%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.065313,51.543941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1089</name>
+        <description>Katherine Road 136%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.047534,51.532454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1186</name>
+        <description>Flanders Road 150%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.056762,51.5283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1354</name>
+        <description>Cemetery Road 203%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.015183,51.551477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1076</name>
+        <description>Plashet Grove 241%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.049869,51.540138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ML1232</name>
+        <description>Keppel Road 632%</description>
+        <styleUrl>#icon-1522-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            0.055892,51.533621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saravanaa Bhavan</name>
+        <styleUrl>#icon-1522-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.068519,51.5616297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
